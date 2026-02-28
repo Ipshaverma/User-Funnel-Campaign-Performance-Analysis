@@ -1,0 +1,9 @@
+campaign_id,campaign_name,channel,visit_users,cart_users,purchase_users,visit_to_cart_rate,cart_to_purchase_rate,overall_conversion_rate
+1,Google Search - Brand,Google Ads,1521,1244,775,81.79,62.3,50.95
+2,Google Search - Generic,Google Ads,1978,1491,686,75.38,46.01,34.68
+3,Facebook Ads - Retargeting,Facebook,1174,975,603,83.05,61.85,51.36
+4,Instagram Influencer,Instagram,788,504,174,63.96,34.52,22.08
+5,Email Newsletter,Email,1022,786,407,76.91,51.78,39.82
+6,Organic Search,Organic,2537,1932,1008,76.15,52.17,39.73
+7,Direct Traffic,Direct,467,380,213,81.37,56.05,45.61
+8,YouTube Ads,YouTube,513,356,135,69.4,37.92,26.32
